@@ -1,0 +1,10 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    flex:0.35;
+}
+
+.sidebar__chat{
+    flex: 1;
+    overflow: scroll;
+}
